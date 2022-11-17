@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#imagens{
+    width: 80%;
+    border: 2px solid blue;
+}
+
+img{
+    width: 49.75%;
+}

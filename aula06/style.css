@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#dv1{
+    background-color: aquamarine;
+    width: 500px;
+    height: 200px;
+    /* margin:30px; */
+    padding: 20px;
+    border: 3px solid blue;
+    border-radius: 10px;
+}
+img{
+    width:200px;
+}
+#dv2{
+    background-color: orange;
+    background-image: url('montanha.jpg');
+    background-size: cover;
+    background-position: 0% ;
+    color: brown;
+    width:500px;
+    height: 100px;
+    margin:10px auto;
+}

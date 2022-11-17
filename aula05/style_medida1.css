@@ -1,0 +1,26 @@
+/* Resetar css */
+*{
+    margin:0;
+    padding:0;
+}
+font-family: 'Trebuchet MS', sans-serif;
+.tam1{
+    background: hsla(240,100%,50%,0.4);
+    width: 240px;
+    height: 640px;
+}
+.tam2{
+    background: hsla(0,100%,50%,0.4);
+    width: 15rem;
+    height: 15rem;
+}
+.tam3{
+    background: hsla(120,100%,50%,0.4);
+    width: 25vw;
+    /* height: 25vh; */
+}
+.tam4{
+    background: hsla(60,100%,50%,0.4);
+    width: 25%;
+}
+kie-wkcm-cgu
